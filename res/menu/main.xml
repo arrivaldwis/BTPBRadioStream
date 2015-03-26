@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="id.odt.btpbstream.MainActivity" >
+
+    <item
+        android:icon="@drawable/ic_action_about"
+        android:id="@+id/action_about"
+        android:showAsAction="ifRoom"
+        android:title="About BTPB.co.id"/>
+
+</menu>
